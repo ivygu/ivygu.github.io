@@ -1,0 +1,61 @@
+baseURL: "https://ivygu.github.io/"
+title: ivy guo
+paginate: 5
+theme: PaperMod
+publishDir: "docs"
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: ivy guo
+  description: ""
+  keywords: [Blog, Portfolio, PaperMod]
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: light # dark, light
+  disableThemeToggle: false
+
+  label:
+    text: "ivy guo"
+
+  # home-info mode
+  homeInfoParams:
+    Title: print("hello world!")
+    Content: | 
+      - My name is Ivy. I’m a first year Computer Science and Life Sciences student and Schulich Leader Scholar 
+      at McGill University. I aspire to make a difference through technology. In my free time, I enjoy reading, painting, 
+      volunteering, and playing the ukulele.
+      -
+      - Feel free to reach out! (:
+
+  socialIcons:
+    - name: Linkedin
+      url: "https://www.linkedin.com/in/ivy-guo1/"
+    - name: github
+      url: "https://github.com/ivygu"
+    - name: email
+      url: mailto:ig.ivyguo@gmail.com
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+menu:
+  main:
+    - identifier: projects
+      name: projects
+      url: /projects/
+      weight: 10
+    - identifier: blog
+      name: blog
+      weight: 30
+      url: /blog/
+    - identifier: art
+      name: art
+      url: /art/
+      weight: 20
+    - identifier: resume
+      name: resume
+      url: "https://www.linkedin.com/in/ivy-guo1/"
+      weight: 40
