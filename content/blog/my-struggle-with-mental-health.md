@@ -32,7 +32,7 @@ Riding the metro back home, I remember sobbing my eyes out. There was no particu
 As weeks passed by, I fell behind. Summer became autumn; lectures went unattended and assignments incomplete. I isolated myself in my dorm room and I just wished that one day this storm would cease to exist. That persistent thought manifested itself into me not wanting to exist anymore. I couldn't seperate myself from my depression. 
 
 I felt ashamed that: 
-- I have the privilege of attending university (out of the generosity of my scholarships) yet I couldn't advantage of the supposedly *most transformative years* of my life.
+- I have the privilege of attending university (out of the generosity of my scholarships) yet I couldn't take advantage of the supposedly *most transformative years* of my life.
 - I was struggling when it seemed like everyone else was thriving.
 - I no longer felt like myself.
 
