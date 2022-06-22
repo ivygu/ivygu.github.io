@@ -17,7 +17,7 @@ ShowWordCount: true
 Vibrant tents lined the midway grounds, each decorated with heaps of stuffed toys. In search of fun, wandering crowds bounced along to lively jingles. It was a Torontonian farewell to summer—the Canadian National Exhibition (CNE). Besides the dazzling merry-go-rounds and the notorious sticks of deep-fried butter, my fond memories of the CNE date back to the summer after ninth grade. At the age of 15, I sought my first job. 
 
 ![CNE](https://lh3.googleusercontent.com/pw/AM-JKLU1I7mXsFINggWl8Id1ayOUJHBxnRER9ZQQ2CO27SrvBOW0Z2GKGcL-obvSXGLt9l1gHF4py90-wXpjAn0hfpnvtGoR6QvY-eSpIw5HvNui4o13JnF7MyJvqDuh9nSvzMH1UxP-l7eXmqzQviNxniUK=w1226-h919-no?authuser=0)
-*Canadian National Exhibition - Toronto, Ontario circa 2018*
+*Canadian National Exhibition - Toronto, Ontario circa 2018 | Photo Credits: [Nikki Guo](https://nikkiguo.github.io/)*
 
 Upon scouring the abyss of job postings, the title, game attendant, stood out to me. *Game attendant*—the epitome of charisma; I envisioned the type of person who allured strangers through powerful pitching and a beaming smile. Immediately, I knew the job description did not align with the perceptions held of me. It is assumed that I am quiet and dismissive; I am shy and cannot present well. How could I, a complete contradiction, be a fit for this role? Nonetheless, I applied, scoring the job later that afternoon.
 
