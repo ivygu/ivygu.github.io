@@ -3,8 +3,7 @@ title: "Art"
 url: "/art/"
 summary: art
 ---
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+Here is my collection of art I've made this past year. Enjoy!
 
 ### La Collation - Oct 14, 2021
 ![La Collation](https://lh3.googleusercontent.com/pw/AM-JKLX1OI8bkT_6uOBylOdN5ahyoteohdBOaaFSPOJosCsRHWbcm_U5xTdfYJeDqpNzxl4YvnQM5dvyFG8NByWqDbwNUN6r4VvPaAVruZwIk01zDnmWMFsvGoV0dD8GRnt2hW6A-hpgml3DUdEdFzaxnhp9=w1266-h1149-no?authuser=0)
