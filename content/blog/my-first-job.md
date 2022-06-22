@@ -19,7 +19,7 @@ Vibrant tents lined the midway grounds, each decorated with heaps of stuffed toy
 ![CNE](https://lh3.googleusercontent.com/pw/AM-JKLU1I7mXsFINggWl8Id1ayOUJHBxnRER9ZQQ2CO27SrvBOW0Z2GKGcL-obvSXGLt9l1gHF4py90-wXpjAn0hfpnvtGoR6QvY-eSpIw5HvNui4o13JnF7MyJvqDuh9nSvzMH1UxP-l7eXmqzQviNxniUK=w1226-h919-no?authuser=0)
 *Canadian National Exhibition - Toronto, Ontario circa 2018*
 
-Upon scouring the abyss of job postings, the title, game attendant, stood out to me. Game attendant—the epitome of charisma; I envisioned the type of person who allured strangers through powerful pitching and a beaming smile. Immediately, I knew the job description did not align with the perceptions held of me. It is assumed that I am quiet and dismissive; I am shy and cannot present well. How could I, a complete contradiction, be a fit for this role? Nonetheless, I applied, scoring the job later that afternoon.
+Upon scouring the abyss of job postings, the title, game attendant, stood out to me. *Game attendant*—the epitome of charisma; I envisioned the type of person who allured strangers through powerful pitching and a beaming smile. Immediately, I knew the job description did not align with the perceptions held of me. It is assumed that I am quiet and dismissive; I am shy and cannot present well. How could I, a complete contradiction, be a fit for this role? Nonetheless, I applied, scoring the job later that afternoon.
 
 I saw my job as an opportunity to shatter these perceptions. No longer did I want to be confined by my world of shyness or restrained by my fear of judgment. If I could step just a bit further outside my comfort zone, that would be enough. So, I stacked a trio of cups, excited yet anxious to commence my days as a game attendant. 
 
