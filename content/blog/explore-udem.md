@@ -28,7 +28,7 @@ Every time I tried to speak French, others picked up on my English accent and wo
 So I chose to enroll in the Explore program, right here in Montréal.
 
 ### Mes expériences et réflexions d'Explore
-Le programme s'est concentré sur les compétences orales. Donc, j’ai essayé de laisser l’anglais et parler seulement le français (mot de clé: essayé). Il y avait beaucoup d'activités culturelles et de la socialisation. 
+Le programme s'est concentré sur les compétences orales. Donc, j’ai essayé de laisser l’anglais et parler seulement le français (mot de clé: essayé). Il y avait beaucoup d'activités culturelles et de socialisation. 
 
 Mes objectifs pour le mois étaient:
 - Devenir plus à l'aise en parlant en français dehors de la salle de classe (même si l'autre personne veut changer de langues)
@@ -46,7 +46,7 @@ Heureusement, je n’avais pas oublié tout mon français (ouf!). Le lendemain, 
   
 
 #### Perdu au Quartier Chinois et au Vieux Montréal
-*à suivre...*
+Pendant le tour de Quartier Chinois et de Vieux Montréal, mon amie et moi étions un peu distraites par les magasins et l’architecture de bâtiments. Tout allait de pho à boulettes de pâte étaient vendus là. Alors que le groupe marchait plus loin dans le quartier, nous avons perdu le groupe! Donc, pour plus qu'une heure et demi, on a essayé de trouver le groupe autour du quartier...c'était beaucoup de pas pour jour, mais finalement, on a repéré une longue ligne d'étudiants. On a fini la journée avec des nouilles et des boulettes de pâtes.     
 
 
 
