@@ -46,7 +46,11 @@ Heureusement, je n’avais pas oublié tout mon français (ouf!). Le lendemain, 
   
 
 #### Perdu au Quartier Chinois et au Vieux Montréal
-Pendant le tour de Quartier Chinois et de Vieux Montréal, mon amie et moi étions un peu distraites par les magasins et l’architecture de bâtiments. Tout allait de pho à boulettes de pâte étaient vendus là. Alors que le groupe marchait plus loin dans le quartier, nous avons perdu le groupe! Donc, pour plus qu'une heure et demi, on a essayé de trouver le groupe autour du quartier...c'était beaucoup de pas pour jour, mais finalement, on a repéré une longue ligne d'étudiants. On a fini la journée avec des nouilles et des boulettes de pâtes.     
+Pendant le tour de Quartier Chinois et de Vieux Montréal, mon amie et moi étions un peu distraites par les magasins et l’architecture de bâtiments. Tout allait de pho à boulettes de pâte étaient vendus là. Alors que le groupe marchait plus loin dans le quartier, nous avons perdu le groupe! Donc, pour plus qu'une heure et demi, on a essayé de trouver le groupe autour du quartier...c'était beaucoup de pas pour jour, mais finalement, on a repéré une longue ligne d'étudiants. On a fini la journée avec des nouilles et des boulettes de pâtes.  
+
+#### La Quarantaine 
+Après une semaine amusante, j'ai attrapé la COVID… Heureusement, mes symptômes étaient plutôt légers; j'avais une mauvaise toux, mes muscles étaient mals, et je me sentais flagada. En général, je n'étais pas dans mon assiette (yay! J'ai appris ça dans mon cours de français). Il n'y a pas beaucoup de choses intéressantes ici-surtout le sommeil et buvant de l'eau. Au moins j'ai eu le wifi et mon laptop!
+
 
 
 
